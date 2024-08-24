@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there 
 
-# Hi there! 👋 I'm Muhamed Bilal
+# Hi there! I'm Muhamed Bilal
 
 I'm a Full Stack Developer with a passion for creating web applications that are not only functional but also user-friendly. With a solid background in both front-end and back-end development, I specialize in building scalable, efficient, and visually appealing applications.
 
