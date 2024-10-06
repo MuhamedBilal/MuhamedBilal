@@ -6,7 +6,7 @@ I'm a Full Stack Developer with a passion for creating web applications that are
 
 ### Front-End
 - **Languages:** JavaScript, TypeScript, HTML, CSS
-- **Frameworks/Libraries:** React, Angular, Next.js
+- **Frameworks/Libraries:** React, Angular, Next.js, vue.js
 - **Styling:** Tailwind CSS, Material UI, Bootstrap
 
 ### Back-End
