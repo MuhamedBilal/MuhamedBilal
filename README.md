@@ -28,6 +28,6 @@ Feel free to check out my repositories and projects. I'm always open to collabor
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=MuhamedBilal&theme=dark&exclude_days=Sun%2CFri%2CSat)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MuhamedBilal&theme=dark&exclude_days=Sun%2CFri%2CSat%2CThu)](https://git.io/streak-stats)
 
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical) -->
