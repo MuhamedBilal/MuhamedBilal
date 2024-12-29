@@ -23,11 +23,3 @@ I'm a Full Stack Developer with a passion for creating web applications that are
 ## 💬 Get in Touch
 - **Email:** muhamedbilal.f@gmail.com 
 - **LinkedIn:** www.linkedin.com/in/muhamed-bilal/
-
-Feel free to check out my repositories and projects. I'm always open to collaboration or just a good tech chat!
-
----
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=MuhamedBilal&theme=dark&exclude_days=Sun%2CFri%2CSat%2CThu)](https://git.io/streak-stats)
-
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical) -->
