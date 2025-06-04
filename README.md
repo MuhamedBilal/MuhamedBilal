@@ -11,7 +11,7 @@ I'm a Full Stack Developer with a passion for creating web applications that are
 
 ### Back-End
 - **Languages:** JavaScript, TypeScript
-- **Frameworks:** Node.js, Express.js
+- **Frameworks:** Node.js, Express.js, Nest.js
 - **Databases:** MongoDB, PostgreSQL
 
 ### DevOps & Tools
